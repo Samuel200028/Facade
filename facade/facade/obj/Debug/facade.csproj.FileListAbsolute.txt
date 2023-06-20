@@ -1,0 +1,8 @@
+D:\Archivos\Visual Studio\facade\facade\bin\Debug\facade.exe.config
+D:\Archivos\Visual Studio\facade\facade\bin\Debug\facade.exe
+D:\Archivos\Visual Studio\facade\facade\bin\Debug\facade.pdb
+D:\Archivos\Visual Studio\facade\facade\obj\Debug\facade.csproj.AssemblyReference.cache
+D:\Archivos\Visual Studio\facade\facade\obj\Debug\facade.csproj.SuggestedBindingRedirects.cache
+D:\Archivos\Visual Studio\facade\facade\obj\Debug\facade.csproj.CoreCompileInputs.cache
+D:\Archivos\Visual Studio\facade\facade\obj\Debug\facade.exe
+D:\Archivos\Visual Studio\facade\facade\obj\Debug\facade.pdb
